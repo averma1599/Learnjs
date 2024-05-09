@@ -64,27 +64,27 @@
 //     console.log(item, index, arr)
 // })
 
-const code2 = [
-    {
-        name : "Ashish",
-        lastName : "verma "
-    },
-    {
-        name : "manish",
-        lastName : "verma "
-    },
-    {
-        name : "Manoj",
-        lastName : "verma "
-    }
-]
+// const code2 = [
+//     {
+//         name : "Ashish",
+//         lastName : "verma "
+//     },
+//     {
+//         name : "manish",
+//         lastName : "verma "
+//     },
+//     {
+//         name : "Manoj",
+//         lastName : "verma "
+//     }
+// ]
 
 // code2.forEach((item)=>{
 //     console.log(item.name);
 // })
 //Filter -----------------------------------------
-const result = code2.filter((item)=> item.name == "Ashish")
-console.log(result)
+// const result = code2.filter((item)=> item.name == "Ashish")
+// console.log(result)
 
 // let coding = ["js", "java", "python", "c++"]
 
@@ -97,5 +97,9 @@ console.log(result)
 // })
 
 // console.log(filterarray)
+
+
+
+
 
 
