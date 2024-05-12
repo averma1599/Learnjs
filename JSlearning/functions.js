@@ -88,7 +88,7 @@
 //     }
 // }
 
-// // user.message()
+// user.message()
 // console.log(this.user);
 // console.log(user)
 // user.username = "verma"
@@ -129,7 +129,11 @@
 
 // ("Ashish")
 
-
+// (()=>{
+//     console.log("Hello")
+//     })
+//     ();
+    
 
 
 

@@ -27,3 +27,21 @@
 
 // child can take the variable of its parent but parent cannot coz scope is limited.
 
+//----------- Setting default values 
+
+// ((...a)=>{
+//  console.log(a.reduce((accum, value)=> accum + value));
+// })(5,15,27)
+
+ // output : 47 
+
+//-------------- cloning array with spread operator 
+
+// const array1 = [1,2,3,4,5,6,7,8]
+// console.log(array1)
+
+// const newClonedArray = [...array1]; // assiging value of array1 as spread 
+
+// console.log(newClonedArray)
+ 
+// ------------- Araay 

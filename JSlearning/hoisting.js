@@ -7,7 +7,7 @@
 //     console.log("Good morning!");
   
 // }
-// a = 5;
+// // a = 5;
 // var a=5;
 // output : Undefined \n Good morning!
 // because var has global scope but variable can only be hoisted as declaration not with value

@@ -98,6 +98,28 @@
 
 // console.log(filterarray)
 
+// const dispute = [
+// {
+//     status: "Approved"
+// },
+
+// {
+//     status: "Pending"
+// },
+
+// {
+//     status: "Denied"
+// }
+// ]
+
+// let value = dispute.forEach((item)=> {
+//  let abc = item.status
+
+
+//  const xyz = item.status
+//  console.log(xyz);
+
+// })
 
 
 
